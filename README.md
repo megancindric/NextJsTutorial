@@ -1,1 +1,1 @@
-# NextJsTutorial
+# NextJs Tutorial
